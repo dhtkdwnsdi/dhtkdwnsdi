@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HELLO&fontAlign=80&fontAlignY=20&desc=I'm%20JYANSOONY&descSize=20&descAlign=85&descAlignY=40&rotate=20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=OSJ%20In%20GitHub!&fontSize=90)
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=&fontSize=45)
