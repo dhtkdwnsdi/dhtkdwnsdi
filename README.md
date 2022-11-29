@@ -2,7 +2,7 @@
 
 <div align=center>
   
-### Hi there 👋
+<h3 align="center">👋 Introduction 👋</h3>
 
 <!--
 **dhtkdwnsdi/dhtkdwnsdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +20,25 @@ Here are some ideas to get you started:
 -->
 <br>
 
-### 📫 Skill 
  
-  <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white">
-  <!-- 자바스크립트 -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
-  <!-- React.js -->
-  <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=white">
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <!-- Mysql -->
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <!-- Oracle -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp<br>
+  <!-- Javascript -->
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp -->
+</p>
   
 <br>
 
